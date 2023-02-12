@@ -1,0 +1,1 @@
+# exercises_js_04_8.1_querySelector
